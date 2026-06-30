@@ -8,13 +8,13 @@ This project was developed as part of a **Next.js Developer Internship Task** to
 
 ## 🚀 Live Demo
 
-🔗 https://your-vercel-link.vercel.app
+🔗 https://pixelforge00.netlify.app
 
 ---
 
 ## 📂 GitHub Repository
 
-🔗 https://github.com/yourusername/pixelforge
+🔗 https://github.com/NickshanJ/pixelforge.git
 
 ---
 
